@@ -5,6 +5,8 @@
 A comprehensive Arduino library for interfacing with Atlas Scientific conductivity (EC) sensors via I2C communication.  
 This library provides both simple API calls for basic readings and a full command interface for advanced configuration and calibration.
 
+You can explore about the sensor here https://files.atlas-scientific.com/EC_EZO_Datasheet.pdf
+
 ## Features
 
 - Read conductivity measurements from Atlas Scientific EC sensors
