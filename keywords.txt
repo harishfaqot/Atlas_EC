@@ -1,0 +1,17 @@
+AtlasEC KEYWORD1
+begin KEYWORD2
+readEC KEYWORD2
+setActiveMode KEYWORD2
+setLED KEYWORD2
+setProbeKValue KEYWORD2
+setTemperatureCompensation KEYWORD2
+clearCalibration KEYWORD2
+dryCalibration KEYWORD2
+singlePointCalibration KEYWORD2
+lowPointCalibration KEYWORD2
+highPointCalibration KEYWORD2
+setDebugMode KEYWORD2
+setECDebugMode KEYWORD2
+getDeviceInfo KEYWORD2
+getI2CAddress KEYWORD2
+processCommands KEYWORD2
